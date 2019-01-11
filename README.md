@@ -1,0 +1,2 @@
+# reszponziv
+Reszponziv webdesign gyakorlasa
